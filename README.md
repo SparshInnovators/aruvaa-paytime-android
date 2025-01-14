@@ -1,5 +1,3 @@
-# aruvaa-paytime-android
-
 # Aruvaa Android App Testing Repository
 
 Welcome to the testing repository for our Android app! This is a temporary space where test users can download and try out our app before its official release on the Google Play Store. We appreciate your time and feedback in helping us improve.
