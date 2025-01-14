@@ -10,7 +10,7 @@ By participating in this testing phase, you'll get early access to the app and t
 ### Step 1: Download the APK
 Click the link below to download the app APK to your device:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](#)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/SparshInnovators/aruvaa-paytime-android/releases/download/alpha/app-debug.apk)
 
 ### Step 2: Enable Installation from Unknown Sources
 To install the APK, you may need to enable installation from unknown sources on your Android device:
